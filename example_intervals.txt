@@ -1,0 +1,12 @@
+Warmup 300
+Sprint 30
+Rest 60
+Sprint 30
+Rest 60
+Sprint 30
+Rest 60
+Sprint 30
+Rest 60
+Sprint 30
+Rest 60
+Cooldown 180 

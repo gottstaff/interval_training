@@ -1,0 +1,12 @@
+Warmup 180
+Set1 45
+Rest 120
+Set2 45
+Rest 120
+Set3 45
+Rest 120
+Set4 45
+Rest 120
+Set5 45
+Rest 120
+Cooldown 180 
