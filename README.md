@@ -20,5 +20,5 @@ make
 ## Usage
 
 ```bash
-./interval_timer strength_intervals.txt
+./interval_timer example_intervals.txt
 ```
