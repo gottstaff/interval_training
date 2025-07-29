@@ -1,6 +1,6 @@
 # Interval Training Timer
 
-A high-contrast, full-screen interval training timer written in C for Linux systems. Features include screen wake prevention, audio alerts, and visual flash effects when intervals complete.
+A high-contrast, full-screen interval training timer written in C for Linux systems.
 
 ### System Dependencies
 
@@ -10,6 +10,14 @@ You'll need to install the following development libraries on your system:
 ```bash
 sudo pacman -S gcc make libx11 libxext alsa-lib cairo libxrandr
 ```
+
+### Compilation
+
+```bash
+make
+```
+
+This will create the `interval_timer` executable.
 
 ## Usage
 
