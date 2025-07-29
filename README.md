@@ -2,6 +2,8 @@
 
 A high-contrast, full-screen interval training timer written in C for Linux systems.
 
+![Screenshot](docs/img/screen.png)
+
 ### System Dependencies
 
 You'll need to install the following development libraries on your system:
