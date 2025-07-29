@@ -125,6 +125,8 @@ int main(int argc, char *argv[]) {
                 running = 0;
                 break;
             } else if (key == 's' || key == 'S') {
+                // Add remaining time to elapsed time when skipping
+                elapsed_training_time += time_remaining;
                 break; // Skip to next interval
             }
         }

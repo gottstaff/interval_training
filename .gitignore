@@ -1,4 +1,6 @@
 .vscode/
 
+interval_timer
+
 *.txt
 !example_intervals.txt
